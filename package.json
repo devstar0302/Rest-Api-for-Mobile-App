@@ -15,7 +15,7 @@
   "license": "(ISC)",
   "devDependencies": {
     "chai-http": "^3.0.0",
-    "eslint": "^3.7.1",
+    "eslint": "^6.8.0",
     "eslint-config-google": "^0.6.0",
     "mocha": "^2.3.4",
     "nock": "^3.3.2"
